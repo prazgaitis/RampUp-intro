@@ -1,2 +1,3 @@
 Name: Paul Razgaitis
 Expectation: Learn a new skill for personal benefit and career development.
+Occupation: I work on the Tech Support team at Braintree/Venmo
